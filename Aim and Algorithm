@@ -1,1 +1,15 @@
+AIm : String OPerations 
 
+Algorithm:
+
+1. START
+2. Input a string and store it in `A`.
+3. Initialize `B` with `"world"`.
+4. Display the original string and its length.
+5. Display the string in uppercase and lowercase.
+6. Display the character at index `1`.
+7. Check whether `"p"` is present in `"Python"`.
+8. Display the substring starting from index `3`.
+9. Replace `A` with `B` and display the result.
+10. Remove spaces from `C` using `strip()` and display it.
+11. STOP
